@@ -27,11 +27,11 @@ Exercicios resolvidos do [URI](https://www.urionlinejudge.com.br/) e do [UVA](ht
 
 ### Enunciados UVA
 
--[10140 - Prime Distance](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1081)
+- [10140 - Prime Distance](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1081)
 
 - [11417 - GCD](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2412)
 
--[11849 - CD](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2949)
+- [11849 - CD](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2949)
 
 
 
