@@ -1,5 +1,5 @@
-# URI
-Exercicios resolvidos do [URI](https://www.urionlinejudge.com.br/) para estudo, prática e preparação para a maratona de programação.
+# URI e UVA
+Exercicios resolvidos do [URI](https://www.urionlinejudge.com.br/) e do [UVA](https://onlinejudge.org/)para estudo, prática e preparação para a maratona de programação.
 
 
 ### Enunciados
