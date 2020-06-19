@@ -48,8 +48,7 @@ Exercicios resolvidos do [URI](https://www.urionlinejudge.com.br/) e do [UVA](ht
 
 - [11849 - CD](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2949)
 
-- [1112 - Mice and Maze](https://onlinejudge.org/index.php?option=com_onlinejudge&
-Itemid=8&page=show_problem&problem=3553)
+- [1112 - Mice and Maze](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3553)
 
 
 
