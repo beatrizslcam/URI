@@ -1,8 +1,9 @@
 # URI e UVA
-Exercicios resolvidos do [URI](https://www.urionlinejudge.com.br/) e do [UVA](https://onlinejudge.org/)para estudo, prática e preparação para a maratona de programação.
+Exercicios resolvidos do [URI](https://www.urionlinejudge.com.br/) e do [UVA](https://onlinejudge.org/) para estudo, prática e preparação para a maratona de programação.
 
 
-### Enunciados
+
+### Enunciados URI
 - [1001 - Extremamente Básico](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001)
 
 - [1002 - Área do Circulo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002)
@@ -15,6 +16,7 @@ Exercicios resolvidos do [URI](https://www.urionlinejudge.com.br/) e do [UVA](ht
 
 - [1044 - Múltiplos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1044)
 
+
 - [1076 - Desenhando Labirintos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1076)
 
 - [1082 - Componentes Conexos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1082)
@@ -24,6 +26,19 @@ Exercicios resolvidos do [URI](https://www.urionlinejudge.com.br/) e do [UVA](ht
 - [1759 - HoHoHo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1759)
 
 - [2566 - Viagem para BH](https://www.urionlinejudge.com.br/judge/pt/problems/view/2566)
+
+- [1553 - Perguntas mais Frequentes](https://www.urionlinejudge.com.br/judge/pt/problems/view/1553)
+
+- [2482 - Etiquetas de Noel](https://www.urionlinejudge.com.br/judge/pt/problems/view/2482)
+
+
+
+### Enunciados UVA
+- [11417 - GCD](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2412)
+
+- [10140 - Prime Distance](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1081)
+
+- [11849 - CD](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2949)
 
 
 
